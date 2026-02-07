@@ -1,0 +1,48 @@
+# =========================
+# Compiled Binaries (Executables)
+# =========================
+server_a1
+client_a1
+server_a2
+client_a2
+server_a3
+client_a3
+
+# =========================
+# Build Artifacts
+# =========================
+*.o
+*.out
+
+# =========================
+# Experiment Data & Logs
+# =========================
+# Ignore raw output logs to keep repo clean
+perf_output.txt
+client_output.txt
+server_debug_log.txt
+
+# Ignore generated perf statistics text files
+*_perf_stats.txt
+
+# Optional: Ignore generated CSV results if you don't want to commit data
+# (Comment these out if you WANT to save your results to git)
+# *.csv
+# MT24147_client_results.csv
+# *_perf_stats.csv
+
+# =========================
+# Python & Jupyter Notebooks
+# =========================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.png
+*.svg
+
+# =========================
+# System Files
+# =========================
+.DS_Store
+.vscode/
+.idea/

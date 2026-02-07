@@ -1,0 +1,48 @@
+Time,CounterValue,Unit,EventName,RunTime,Percentage
+# started on Sat Feb  7 23:29:01 2026
+
+60.007485704,960274000,,cpu_atom/cycles/,47667058,21.00,,
+60.007485704,1769024552,,cpu_core/cycles/,267399097,85.00,,
+60.007485704,941643527,,cpu_atom/instructions/,47667058,21.00,0.98,insn per cycle
+60.007485704,2561434008,,cpu_core/instructions/,267399097,85.00,1.45,insn per cycle
+60.007485704,<not supported>,,cpu_atom/L1-dcache-load-misses/,0,100.00,,
+60.007485704,2055954,,cpu_core/L1-dcache-load-misses/,267399097,85.00,,
+60.007485704,3212810,,cpu_atom/cache-misses/,47667058,21.00,,
+60.007485704,8201284,,cpu_core/cache-misses/,267399097,85.00,,
+60.007485704,1009,,context-switches,315066155,100.00,,
+120.067803868,92730183,,cpu_atom/cycles/,17310842,75.00,,
+120.067803868,375070230,,cpu_core/cycles/,53547636,76.00,,
+120.067803868,49557307,,cpu_atom/instructions/,17310842,75.00,0.53,insn per cycle
+120.067803868,232281452,,cpu_core/instructions/,53547636,76.00,0.62,insn per cycle
+120.067803868,<not supported>,,cpu_atom/L1-dcache-load-misses/,0,100.00,,
+120.067803868,4056309,,cpu_core/L1-dcache-load-misses/,53547636,76.00,,
+120.067803868,1328379,,cpu_atom/cache-misses/,17310842,75.00,,
+120.067803868,9013487,,cpu_core/cache-misses/,53547636,76.00,,
+120.067803868,920,,context-switches,70858478,100.00,,
+180.128051946,2965330395,,cpu_atom/cycles/,762091123,98.00,,
+180.128051946,6391417889,,cpu_core/cycles/,571778602,42.00,,
+180.128051946,1177298062,,cpu_atom/instructions/,762091123,98.00,0.40,insn per cycle
+180.128051946,2623291427,,cpu_core/instructions/,571778602,42.00,0.41,insn per cycle
+180.128051946,<not supported>,,cpu_atom/L1-dcache-load-misses/,0,100.00,,
+180.128051946,33023513,,cpu_core/L1-dcache-load-misses/,571778602,42.00,,
+180.128051946,728096,,cpu_atom/cache-misses/,762091123,98.00,,
+180.128051946,21882793,,cpu_core/cache-misses/,571778602,42.00,,
+180.128051946,163948,,context-switches,1333869725,100.00,,
+240.188347393,118329718810,,cpu_atom/cycles/,1364408216,4.00,,
+240.188347393,221918324748,,cpu_core/cycles/,44198652540,97.00,,
+240.188347393,46856805708,,cpu_atom/instructions/,1364408216,4.00,0.40,insn per cycle
+240.188347393,86631563436,,cpu_core/instructions/,44198652540,97.00,0.39,insn per cycle
+240.188347393,<not supported>,,cpu_atom/L1-dcache-load-misses/,0,100.00,,
+240.188347393,562311908,,cpu_core/L1-dcache-load-misses/,44198652540,97.00,,
+240.188347393,6192327,,cpu_atom/cache-misses/,1364408216,4.00,,
+240.188347393,13575759,,cpu_core/cache-misses/,44198652540,97.00,,
+240.188347393,5776431,,context-switches,45563060756,100.00,,
+247.507610797,<not counted>,,cpu_atom/cycles/,0,100.00,,
+247.507610797,<not counted>,,cpu_core/cycles/,0,100.00,,
+247.507610797,<not counted>,,cpu_atom/instructions/,0,100.00,,
+247.507610797,<not counted>,,cpu_core/instructions/,0,100.00,,
+247.507610797,<not supported>,,cpu_atom/L1-dcache-load-misses/,0,100.00,,
+247.507610797,<not counted>,,cpu_core/L1-dcache-load-misses/,0,100.00,,
+247.507610797,<not counted>,,cpu_atom/cache-misses/,0,100.00,,
+247.507610797,<not counted>,,cpu_core/cache-misses/,0,100.00,,
+247.507610797,<not counted>,,context-switches,0,100.00,,
